@@ -1,16 +1,7 @@
 // Given a collection of meetings (each has a start time and an end time, positive integer type, start time is inclusive and end time is exclusive), return whether if all meetings can be held in one meeting room
 // [(1,3), (6,8), (3,5)]  -> True
-
-// ##*******
-// *****##**
-// **##*****
-
-
 // [(1,2), (4,6), (3,5)]  -> False
 
-// #*********
-// ***##*****
-// **##******
 
 
 import java.util.ArrayList;
